@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Apr 2025 19:18:46 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ctf Writeup</title>
+      <link>/posts/ctf-writeup/</link>
+      <pubDate>Mon, 28 Apr 2025 19:18:46 +0200</pubDate>
+      
+      <guid>/posts/ctf-writeup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
